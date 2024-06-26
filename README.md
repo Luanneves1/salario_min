@@ -3,7 +3,7 @@
 Este é um pequeno projeto em PHP que calcula quantos salários mínimos um determinado salário representa e quanto sobra em reais além dos salários inteiros.
 
 
-![Logo]()
+![Logo](salario_minimo.png)
 
 #### Funcionalidades
 
